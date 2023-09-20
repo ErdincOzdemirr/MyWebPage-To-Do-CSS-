@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: red; font-size: 30px; 
+}
+h2 {
+    color: blue; font-size: 20px; 
+}
+h3 {
+    color: green; font-size: 14px; 
+}
+.cd1 {
+    color:purple; font-size: 12px; font-style: italic; 
+}
+#erdinc {
+    font-style: oblique;
+}
